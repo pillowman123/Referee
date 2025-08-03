@@ -1,5 +1,11 @@
+### Deps
 
-### Building MinHook - Using vcpkg
+## Installing Git
+
+You can download git at https://git-scm.com/downloads/win
+**Just hit next until the thing fucking installs**
+
+## Installaing MinHook (Git & Vcpkg)
 
 You can download and install MinHook using the [vcpkg](https://github.com/Microsoft/vcpkg) dependency manager:
 

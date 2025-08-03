@@ -1,9 +1,9 @@
 ### Thingies to install:
-
-## Installing Git
-
-You can download git at https://git-scm.com/downloads/win
-**Just hit next until the thing fucking installs**
+- Visual Studio (To Compile Project)
+- Ida (7.5+ Required)
+- Ida Fusion (https://github.com/senator715/IDA-Fusion) [Throw in plugins folder in IDA directory once installed, refer to repository readme]
+- Git (https://git-scm.com/downloads/win [Git for Windows/x64 Setup])
+- MinHook (Refer to below on how to install)
 
 ## Installaing MinHook (Git & Vcpkg)
 
@@ -13,6 +13,7 @@ You can download and install MinHook using the [vcpkg](https://github.com/Micros
     .\vcpkg\bootstrap-vcpkg.bat
     .\vcpkg\vcpkg integrate install
     .\vcpkg\vcpkg install minhook
+
 
 
     

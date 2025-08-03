@@ -1,5 +1,7 @@
 ## We bypassing Referee tn because RR doesnt wanna patch anything!!! (Includes SSL & Latest RR Dump [Will be always updated :3])
 
+**Tutorial**: https://www.youtube.com/watch?v=DV5YnMlXRCE
+
 ### Requirements:
 - A fucking brain (Not that hard to install this shit, follow a YT tutorial, and compile the given project with this source)
 

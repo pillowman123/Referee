@@ -31,3 +31,8 @@ You can download and install MinHook using the [vcpkg](https://github.com/Micros
 
 ## Using project
 **After everything has been installed, switch debug to release, then hit (ctrl + b) to compile the project. Then inject with any method you'd like!**
+
+## Credits:
+- pillowguy._. (Finding Referee bypass, blah blah blah yk the rest)
+- Ryan (Creating YT Tutorial for people)
+  

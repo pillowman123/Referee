@@ -5,6 +5,7 @@
 
 ### Thingies to install:
 - Visual Studio (To Compile Project)
+- Scylla (https://github.com/NtQuery/Scylla/releases/tag/v0.9.8) [Refer to YT Tutorial on how to install]
 - Ida (7.5+ Required)
 - Ida Fusion (https://github.com/senator715/IDA-Fusion) [Throw in plugins folder in IDA directory once installed, refer to repository readme]
 - Git (https://git-scm.com/downloads/win) [Git for Windows/x64 Setup])

@@ -2,6 +2,9 @@
 
 **Tutorial**: https://www.youtube.com/watch?v=DV5YnMlXRCE
 
+### Notice:
+- Please don't be fucking retarded and contact either me, or Ryan about the signature not working. It still does indeed work, and the Referee offsets inside of the offsets.h have been updated since (8/8/25) if you're running into compile errors like missing "pch.h" (pre-compiled header) switch **debug** to **release** it literally isn't that hard, and make sure git, vcpkg & minhook is installed referring to below.
+
 ### Requirements:
 - A fucking brain (Not that hard to install this shit, follow a YT tutorial, and compile the given project with this source)
 
